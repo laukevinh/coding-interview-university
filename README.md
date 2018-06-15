@@ -40,6 +40,8 @@
     - adjacency matrix
     - adjacency list
     - traversals: BFS, DFS
+- [Debugging](#debugging)
+    - GDB
 - [Even More Knowledge](#even-more-knowledge)
     - [Recursion](#recursion)
     - [Dynamic Programming](#dynamic-programming)
@@ -839,6 +841,10 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] check for bipartite graph
 
 You'll get more graph practice in Skiena's book (see Books section below) and the interview books
+
+## Debugging
+- ### GDB
+    - [ ] [Yale 233 notes on debugging](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#debugging)
 
 ## Even More Knowledge
 
